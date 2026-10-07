@@ -11,7 +11,7 @@
 class Solution {
 public:
     ListNode* swapPairs(ListNode* head) {
-        // Dummy node acts as a precedent to the head node
+        
         ListNode dummy(0, head);
         ListNode* prev = &dummy;
         ListNode* curr = head;
@@ -20,12 +20,12 @@ public:
             ListNode* np = curr->next;
             ListNode* nextPair = np->next;
 
-            // Relink the nodes
+            
             np->next = curr;
             curr->next = nextPair;
             prev->next = np;
 
-            // Advance pointers for the next iteration
+            
             prev = curr;
             curr = nextPair;
         }
