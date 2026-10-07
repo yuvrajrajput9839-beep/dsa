@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/yuvrajrajput9839-beep/dsa/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/yuvrajrajput9839-beep/dsa/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/yuvrajrajput9839-beep/dsa/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
