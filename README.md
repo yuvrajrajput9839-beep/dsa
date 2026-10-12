@@ -29,6 +29,7 @@
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yuvrajrajput9839-beep/dsa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yuvrajrajput9839-beep/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/yuvrajrajput9839-beep/dsa/tree/master/0724-find-pivot-index) |
 ## Design
@@ -38,6 +39,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yuvrajrajput9839-beep/dsa/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yuvrajrajput9839-beep/dsa/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/yuvrajrajput9839-beep/dsa/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
